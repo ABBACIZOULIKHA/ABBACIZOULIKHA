@@ -60,19 +60,6 @@ I enjoy building intelligent applications, designing scalable software, and turn
 
 ---
 
-## ⭐ Featured Projects
-
-> 📌 Replace the placeholders below with your best 3–4 projects (keep each description to one line, focused on the **problem** and the **impact**).
-
-| Project | Description | Tech |
-|---|---|---|
-| 🔍 **[Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | One-line summary of the problem it solves and the result (e.g. accuracy, speed-up). | `Python` `PyTorch` `OpenCV` |
-| 🤖 **[RAG Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | Question-answering assistant over private documents using retrieval-augmented generation. | `Python` `LangChain` `Vector DB` |
-| 🏗️ **[Backend Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | Scalable REST API / microservices architecture with authentication and Docker deployment. | `.NET` `PostgreSQL` `Docker` |
-| 📊 **[Data Engineering Project](https://github.com/ABBACIZOULIKHA/repo-name)** | ETL pipeline transforming raw data into analytics-ready models. | `Databricks` `dbt` `SQL` |
-
----
-
 ## 🧠 Areas of Interest
 
 <table>
