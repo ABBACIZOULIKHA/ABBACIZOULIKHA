@@ -38,6 +38,17 @@ Scikit-learn · Pandas · NumPy · Computer Vision · Deep Learning · RAG
 Oracle · Databricks · dbt · REST APIs · Microservices
 
 ---
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ABBACIZOULIKHA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABBACIZOULIKHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
 
 ### 🧠 Areas of Interest
 
