@@ -13,29 +13,29 @@ Currently working on AI-driven solutions and software engineering projects, with
 ### 🚀 Technical Skills
 
 **Programming Languages**
-- Python, C#, Java, JavaScript, SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,sql" />
+</p>
+
 
 **Artificial Intelligence & Data Science**
-- Machine Learning, Deep Learning
-- PyTorch, TensorFlow, Scikit-learn
-- Pandas, NumPy, OpenCV
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+Scikit-learn · Pandas · NumPy · Computer Vision · Deep Learning · RAG
 
 **Backend Development**
-- ASP.NET Core, Entity Framework Core
-- Django, Flask, Node.js
-- REST APIs, Microservices
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,django,flask,nodejs,react,nextjs,html,css,bootstrap" />
+</p>
 
-**Frontend Development**
-- React, Next.js, HTML, CSS, Bootstrap
+**Databases & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,firebase,docker,git,github,linux,vscode" />
+</p>
 
-**Databases & Data Engineering**
-- SQL Server, Oracle, MongoDB
-- PostgreSQL, Firebase
-- Databricks, dbt
-
-**Tools & Technologies**
-- Git, GitHub, Docker
-- Linux, Visual Studio, VS Code
+Oracle · Databricks · dbt · REST APIs · Microservices
 
 ---
 
