@@ -1,44 +1,105 @@
-# Hi, I'm Zoulikha Abbaci 👋
+<div align="center">
 
-### AI Engineer | Software Engineer | Data Scientist
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zoulikha%20Abbaci&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%" />
 
-I'm an **AI and Software Engineer** with a State Engineering Degree in Computer Science and a Master's degree in Computer Science from ESI Algiers.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+intelligent+applications;Designing+scalable+software+solutions;Turning+data+into+meaningful+insights;Exploring+Generative+AI+%26+RAG" alt="Typing SVG" />
+</a>
 
-I am passionate about building intelligent applications, designing scalable software solutions, and transforming data into meaningful insights.
+<p>
+  <a href="https://www.linkedin.com/in/zoulikha-abbaci/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ABBACIZOULIKHA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ABBACIZOULIKHA&label=Profile%20Views&color=2c5364&style=for-the-badge" />
+</p>
 
-Currently working on AI-driven solutions and software engineering projects, with a particular interest in Machine Learning, Deep Learning, backend development, and data engineering.
+</div>
 
 ---
 
-### 🚀 Technical Skills
+## 👩‍💻 About Me
 
-**Programming Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,sql" />
-</p>
+I'm an **AI and Software Engineer** holding a **State Engineering Degree** and a **Master's degree in Computer Science** from **ESI Algiers** (École nationale Supérieure d'Informatique).
 
+I enjoy building intelligent applications, designing scalable software, and turning raw data into meaningful insights.
 
-**Artificial Intelligence & Data Science**
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-Scikit-learn · Pandas · NumPy · Computer Vision · Deep Learning · RAG
-
-**Backend Development**
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,django,flask,nodejs,react,nextjs,html,css,bootstrap" />
-</p>
-
-**Databases & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,firebase,docker,git,github,linux,vscode" />
-</p>
-
-Oracle · Databricks · dbt · REST APIs · Microservices
+- 🔭 Currently working on **AI-driven solutions** and software engineering projects
+- 🌱 Deepening my knowledge of **Generative AI, RAG, and MLOps**
+- ⚙️ Interested in **Machine Learning, Deep Learning, backend development, and data engineering**
+- 🤝 Open to **collaborations, internships, and challenging opportunities**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/zoulikha-abbaci/)
 
 ---
-🔥 Contribution Streak
+
+## 🚀 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,sql" />
+</p>
+
+### AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy" />
+</p>
+
+`Computer Vision` · `Deep Learning` · `NLP` · `Generative AI` · `RAG`
+
+### Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,django,flask,nodejs,react,nextjs,html,css,bootstrap" />
+</p>
+
+`REST APIs` · `Microservices`
+
+### Databases, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,firebase,docker,git,github,linux,vscode" />
+</p>
+
+`Oracle` · `Databricks` · `dbt` · `Data Pipelines`
+
+---
+
+## ⭐ Featured Projects
+
+> 📌 Replace the placeholders below with your best 3–4 projects (keep each description to one line, focused on the **problem** and the **impact**).
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔍 **[Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | One-line summary of the problem it solves and the result (e.g. accuracy, speed-up). | `Python` `PyTorch` `OpenCV` |
+| 🤖 **[RAG Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | Question-answering assistant over private documents using retrieval-augmented generation. | `Python` `LangChain` `Vector DB` |
+| 🏗️ **[Backend Project Name](https://github.com/ABBACIZOULIKHA/repo-name)** | Scalable REST API / microservices architecture with authentication and Docker deployment. | `.NET` `PostgreSQL` `Docker` |
+| 📊 **[Data Engineering Project](https://github.com/ABBACIZOULIKHA/repo-name)** | ETL pipeline transforming raw data into analytics-ready models. | `Databricks` `dbt` `SQL` |
+
+---
+
+## 🧠 Areas of Interest
+
+<table>
+  <tr>
+    <td>🤖 <b>AI & Machine Learning</b></td>
+    <td>👁️ <b>Computer Vision & Deep Learning</b></td>
+    <td>✨ <b>Generative AI & RAG</b></td>
+  </tr>
+  <tr>
+    <td>🏛️ <b>Software Architecture & Microservices</b></td>
+    <td>🛠️ <b>Data Engineering & MLOps</b></td>
+    <td>📈 <b>Data-Driven Decision Making</b></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ABBACIZOULIKHA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABBACIZOULIKHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+### 🔥 Contribution Streak
 
 <div align="center">
 
@@ -46,7 +107,7 @@ Oracle · Databricks · dbt · REST APIs · Microservices
 
 </div>
 
-📈 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -54,30 +115,17 @@ Oracle · Databricks · dbt · REST APIs · Microservices
 
 </div>
 
-
-### 🧠 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Deep Learning
-- Generative AI & Retrieval-Augmented Generation (RAG)
-- Software Architecture & Microservices
-- Data Engineering & MLOps
-
 ---
 
-### 📌 Featured Projects
+## 🌐 Let's Connect
 
-- **Wheat Disease & Insect Detection:** AI-powered platform for detecting wheat diseases and insects using computer vision and deep learning.
-- **Document Management Solutions:** Development of document processing, storage, and management applications using ASP.NET Core and SQL Server.
-- **Data-Driven Applications:** Building software solutions integrating databases, APIs, data processing, and automation.
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/zoulikha-abbaci/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ABBACIZOULIKHA"><img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### 🌐 Connect With Me
+*Always learning, building, and exploring new technologies.* 🚀
 
-- **LinkedIn:** [Zoulikha Abbaci](https://www.linkedin.com/in/zoulikha-abbaci/)
-- **GitHub:** [ABBACIZOULIKHA](https://github.com/ABBACIZOULIKHA)
+</div>
 
----
-
-*Always learning, building, and exploring new technologies.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
