@@ -38,17 +38,22 @@ Scikit-learn · Pandas · NumPy · Computer Vision · Deep Learning · RAG
 Oracle · Databricks · dbt · REST APIs · Microservices
 
 ---
-📊 GitHub Analytics
+🔥 Contribution Streak
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ABBACIZOULIKHA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABBACIZOULIKHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=ABBACIZOULIKHA&theme=tokyonight&hide_border=true" width="75%" />
 
 </div>
 
----
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABBACIZOULIKHA&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
 
 ### 🧠 Areas of Interest
 
